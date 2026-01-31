@@ -15,7 +15,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
       </main>
       <footer className="bg-slate-900 border-t border-slate-800 py-6">
         <div className="container mx-auto px-4 text-center text-slate-400 text-sm">
-          <p>© {new Date().getFullYear()} Caesar Cipher Tool. Built for cryptographic enthusiasts.</p>
+          <p>© {new Date().getFullYear()} ShieldX. Built for cryptographic enthusiasts.</p>
           <div className="mt-2 flex justify-center gap-4">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
             <span className="text-slate-600">•</span>

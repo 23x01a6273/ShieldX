@@ -23,7 +23,7 @@ const Navbar: React.FC = () => {
           <div className="flex items-center">
             <Link to="/" className="flex items-center gap-2 text-primary hover:text-blue-400 transition-colors">
               <Lock className="h-8 w-8" />
-              <span className="font-bold text-xl text-white">Caesar Cipher Tool</span>
+              <span className="font-bold text-xl text-white">ShieldX</span>
             </Link>
           </div>
           
